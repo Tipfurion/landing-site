@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Мы - Healthy Tooth",
+    "paragraph": "Стоматологическая клиника «Healthy Tooth» предлагает своим пациентам полный спектр стоматологических услуг. Мы гарантируем высокое качество лечения, индивидуальный подход к каждому пациенту и приемлемые цены."
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -161,24 +161,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-comment",
+      "title": "Индивидуальный подход",
+      "text": "Наши клиенты могут рассчитывать на индивидуальный подход и внимательное отношение к каждому пациенту."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Отзывы",
+      "text": "Положительные отзывы клиентов компании Healthy Tooth говорят о высоком качестве предоставляемых стоматологических услуг."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Наши специалисты",
+      "text": "Наши специалисты обладают многолетним опытом работы, а также постоянно повышают квалификацию в ведущих клиниках России. В нашем стоматологическом центре работают врачи высшей категории."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Лечение",
+      "text": "В нашей клинике можно пройти лечение зубов, выполнить реставрацию зубов или имплантацию зубов."
     }
   ]
 }
