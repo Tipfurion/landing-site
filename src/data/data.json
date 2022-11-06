@@ -4,18 +4,18 @@
     "paragraph": "Стоматологическая клиника «Healthy Tooth» предлагает своим пациентам полный спектр стоматологических услуг. Мы гарантируем высокое качество лечения, индивидуальный подход к каждому пациенту и приемлемые цены."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Стоматологическая клиника \"Healthy Tooth\" была образована в 1994 году и за время своего существования стала одним из ведущих лечебных учреждений города. В клинике работают врачи с большим опытом работы, которые постоянно повышают свою квалификацию.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Индивидуальный подход",
+      "Высокие отзывы клиентов",
+      "Высокая квалификация наших специалистов",
+      "Широкий спектр предоставляемых услуг"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Доступные цены",
+      "Большой опыт",
+      "Предастовление услуг в рассрочку",
+      "Скидки пенсионерам"
     ]
   },
   "Gallery": [
