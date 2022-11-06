@@ -67,34 +67,34 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-asterisk",
+      "name": "Лечение кариеса",
+      "text": "Удаление пораженной ткани зуба, которая приводит к разрушению его твердых тканей – дентина и эмали."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-arrows-h",
+      "name": "Восстановление зубного ряда",
+      "text": "По окончании такой операции у пациента восстанавливается жевательная функция, а также способность к жеванию твердой пищи."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cube",
+      "name": "Протезирование зубов",
+      "text": "Процедура, которая позволяет вернуть утраченный зуб и восстановить эстетический вид улыбки. Может быть установлено несколько видов коронок: металлокерамические, циркониевые, акриловые и безметалловые."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-star-half-o",
+      "name": "Отбеливание",
+      "text": "Технология отбеливания представляет собой современное средство, которое основано на использовании световой энергии."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-eraser",
+      "name": "Гигиена полости рта",
+      "text": "Является важнейшим условием для сохранения здоровья зубов и десен. Регулярная гигиена зубов и полости рта предотвратит развитие кариеса и других заболеваний."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cog",
+      "name": "Имплантация зубов",
+      "text": "Является одной из самых эффективных методик восстановления зубов: с ее помощью можно не только вернуть утраченный зуб, но и восстановить жевательную функцию, а также эстетику улыбки."
     }
   ],
   "Testimonials": [
@@ -173,7 +173,7 @@
     {
       "icon": "fa fa-group",
       "title": "Наши специалисты",
-      "text": "Наши специалисты обладают многолетним опытом работы, а также постоянно повышают квалификацию в ведущих клиниках России. В нашем стоматологическом центре работают врачи высшей категории."
+      "text": "Наши специалисты обладают многолетним опытом работы, а также постоянно повышают квалификацию в ведущих клиниках."
     },
     {
       "icon": "fa fa-magic",
